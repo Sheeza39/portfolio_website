@@ -534,16 +534,19 @@ color: #7D7C84;
     .form-group label {
         display: block;
         margin-bottom: 5px;
+        color: #7D7C84;
+        font-size: 12px;
+
     }
     .form-group input, 
     .form-group textarea {
-        width: 100%;
+        width: 95%;
         padding: 10px;
         border: 1px solid #ccc;
         border-radius: 4px;
     }
     .submit-button {
-        background-color: #28a745;
+    
         color: white;
         border: none;
         width: 288px;
@@ -559,10 +562,10 @@ color: #7D7C84;
     footer{
         background: #1A2236;
         color: #92DCDC;
-        margin-top: -100px;
+        margin-top: -170px;
+        margin-left: 5px;
         width: 318px;
 height: 137px;
-left: -1px;
 gap: 0px;
 opacity: 0px;
 
@@ -580,7 +583,7 @@ left: 78px;
 gap: 0px;
 opacity: 0px;
 font-family: Poppins;
-font-size: 16px;
+font-size: 18px;
 font-weight: 500;
 line-height: 24px;
 text-align: left;
@@ -588,7 +591,13 @@ text-align: left;
     }
 
 .res-icon{
-    margin-left: 200px;
+    margin-left: 210px;
     margin-top: -22px;
+
+}
+
+.social-icons{
+    margin-top: 30px;
+    margin-left: 15px;
 
 }
