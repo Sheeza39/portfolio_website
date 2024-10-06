@@ -5,14 +5,17 @@
 }
 
 body {
+ 
+    
     font-family: 'Arial', sans-serif;
-    background-color: #f9f9f9;
+    background-color: white;
     padding: 10px;
     line-height: 1.6;
     width: 318px;
 height: 4835px;
 top: -2164px;
 left: 6158px;
+margin-left: 500px;
 gap: 0px;
 opacity: 0px;
 
@@ -295,6 +298,7 @@ color: #1A2236;
     }
 
     .languages{
+
       margin-top: 15px;
         width: 289px;
 height: 289px;
@@ -355,6 +359,236 @@ color: #FFFFFF;
         left: 203px;
         gap: 0px;
         opacity: 0px;
+    }
+
+    .frameworks{
+
+        margin-top: 15px;
+          width: 289px;
+  height: 289px;
+  top: 3134px;
+  left: 16px;
+  gap: 0px;
+  opacity: 0px;
+  background: #E2505C;
+
+  color: #FFFFFF;
+  
+      }
+  
+      .frameworks h2 {
+          width: 116px;
+          height: 30px;
+          top: 3184px;
+          left: 66px;
+          gap: 0px;
+          opacity: 0px;
+          font-family: Poppins;
+          font-size: 20px;
+          font-weight: 800;
+          line-height: 30px;
+          text-align: left;
+          color: #FFFFFF;
+          padding: 40px;
+  
+      }
+      
+  
+      
+  
+      .frameworks img{
+          
+          margin-left: 185px;
+          margin-top: -60px;
+          width: 102px;
+          height: 102px;
+          top: 3321px;
+          left: 203px;
+          gap: 0px;
+          opacity: 0px;
+      }
+
+    
+
+    .skills{
+        margin-top: 15px;
+        width: 289px;
+height: 289px;
+top: 3134px;
+left: 16px;
+gap: 0px;
+opacity: 0px;
+background: #FEBF52;
+
+
+color: #FFFFFF;
+
+    }
+
+    .skills h2 {
+        width: 116px;
+        height: 30px;
+        top: 3184px;
+        left: 66px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: 800;
+        line-height: 30px;
+        text-align: left;
+        color: #FFFFFF;
+        padding: 40px;
+
+    }
+
+    .skills img{
+        
+        margin-left: 185px;
+        margin-top: -60px;
+        width: 102px;
+        height: 102px;
+        top: 3321px;
+        left: 203px;
+        gap: 0px;
+        opacity: 0px;
 
 
     }
+
+    .contact-form{
+        margin-top: 900px;
+        width: 320px;
+    height: 775px;
+    top: 4060px;
+    left: -2px;
+    gap: 0px;
+    opacity: 0px;
+    
+    }
+
+    .contact-form h1{
+margin-left: 15px;
+        width: 249px;
+height: 50px;
+top: 4166px;
+left: 16px;
+gap: 0px;
+opacity: 0px;
+font-family: Playfair Display;
+font-size: 40px;
+font-weight: 400;
+line-height: 50px;
+text-align: left;
+color: #1A2236;
+
+    }
+
+    .contact-form p{
+        margin-left: 15px;
+        margin-top: 15px;
+ width: 288px;
+height: 63px;
+top: 4236px;
+left: 16px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: -0.01em;
+text-align: left;
+color: #1A2236;
+
+    }
+
+    .contact-form h6{
+
+        margin-left: 15px;
+        margin-top: 18px;
+        width: 55px;
+height: 15px;
+top: 4313px;
+left: 16px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 15px;
+text-align: left;
+color: #7D7C84;
+
+    }
+
+    .form-container {
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+       
+    }
+    .form-group {
+        margin-bottom: 15px;
+    }
+    .form-group label {
+        display: block;
+        margin-bottom: 5px;
+    }
+    .form-group input, 
+    .form-group textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    .submit-button {
+        background-color: #28a745;
+        color: white;
+        border: none;
+        width: 288px;
+        height: 44px;
+        left: 16px;
+        gap: 0px;
+        opacity: 0px;
+        background: #1A2236;
+
+        
+    }
+
+    footer{
+        background: #1A2236;
+        color: #92DCDC;
+        margin-top: -100px;
+        width: 318px;
+height: 137px;
+left: -1px;
+gap: 0px;
+opacity: 0px;
+
+
+    }
+
+    footer h3{
+        
+padding-top: 30px;
+padding-left: 80px;
+ width: 128px;
+height: 24px;
+top: 4726px;
+left: 78px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+
+    }
+
+.res-icon{
+    margin-left: 200px;
+    margin-top: -22px;
+
+}
